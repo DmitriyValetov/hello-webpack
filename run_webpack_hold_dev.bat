@@ -1,0 +1,1 @@
+webpack -w --devtool source-map js/profile.js -o dist/bundle.js

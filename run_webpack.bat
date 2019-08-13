@@ -1,0 +1,1 @@
+webpack js/profile.js -o dist/bundle.js
